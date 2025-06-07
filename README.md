@@ -24,7 +24,7 @@ cd src
 2. **Compile os arquivos Java:**
 
 ```bash
-javac App.java Palindromo.java
+javac App.java Fatorial.java
 ```
 
 3. **Execute o programa:**
